@@ -1,4 +1,0 @@
-version: 1.01
----
-build(project);
-oneJAR(project);
